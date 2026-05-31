@@ -1,0 +1,5 @@
+# Add this file  QVI_transaction_data.xlsx
+# to the .gitignore file to prevent it from being tracked by Git.
+
+# .gitignore
+QVI_transaction_data.xlsx
